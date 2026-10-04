@@ -31,4 +31,4 @@ Hands-on training focused on programming, problem-solving and computer science f
 
 ### 🔗 Let's connect
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+https://www.linkedin.com/in/yara-nieto-santos-a1641926b/
