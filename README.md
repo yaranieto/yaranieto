@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Yara 👋
 
-<!--
-**yaranieto/yaranieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Development student at 42 Urduliz**, currently completing the Common Core.
 
-Here are some ideas to get you started:
+My background is in **Psychology**, and I'm interested in the intersection between **people, technology and problem-solving**. I'm currently developing my technical skills through hands-on projects involving systems programming, networking, Linux and Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently learning
+
+* C / C++
+* Unix / Linux
+* Git & GitHub
+* Algorithms and data structures
+* Networking
+* Docker
+* System administration
+
+### 📌 42 Projects
+
+* **[Minishell]** — Building a simple shell in C, working with parsing, splitting, redirections, pipes and signals.
+* **[Inception]** — Containerization and system administration using Docker.
+* **[NetPractice]** — Networking fundamentals, IP addressing and subnetting.
+* **[Philosophers]** — Concurrency, threads and synchronization in C.
+
+### 🎓 Background
+
+**Psychology — Universidad de Deusto**
+Interested in human behaviour, communication and understanding how people interact with their environment.
+
+**Software Development — 42 Urduliz**
+Hands-on training focused on programming, problem-solving and computer science fundamentals.
+
+### 🔗 Let's connect
+
+[LinkedIn](YOUR_LINKEDIN_URL)
